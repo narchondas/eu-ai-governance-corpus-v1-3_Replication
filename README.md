@@ -1,3 +1,8 @@
+
+
+<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_33 PM (2)" src="https://github.com/user-attachments/assets/af5a6831-230b-44a2-894f-99bc8e3cee64" />
+
+
 # EU AI governance artefact
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BtrCoPCjLdFZphm986MSrw3xnLneX4nK?usp=sharing)
 
@@ -16,9 +21,15 @@ corpus/      The eighteen EU documents (EU_01 to EU_18) in PDF format
 
 The analysis covers eighteen EU instruments spanning three regulatory phases, from the early coordination and soft-law period through the adoption of binding regulation and into the subsequent implementation and simplification stage. The corpus is restricted to EU material, and no comparative jurisdiction is included.
 
+<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_34 PM (5)" src="https://github.com/user-attachments/assets/66275ee8-47e1-4459-ad21-c6f66c625832" />
+
+
 ## The notebook
 
 The notebook positions each document along a regulatory spectrum by measuring the relative intensity of innovation-oriented and safeguards-oriented vocabulary, weighted by the legal force of the instrument. Its outputs comprise a regulatory spectrum scatter plot, a quadrant distribution chart, a heatmap of vocabulary intensity and a chronological slope graph.
+
+<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_34 PM (4)" src="https://github.com/user-attachments/assets/1d3c6a55-06d0-41a1-913d-2e17bb8ed9cc" />
+
 
 ## Reproduction
 
@@ -31,6 +42,9 @@ The documents in the corpus are, with one exception, official EU publications ob
 The exception is EU_18, the consolidated reading of the amended AI Act, which is an unofficial consolidation prepared by the law firm Bird & Bird. It combines the AI Act as retrieved from EUR-Lex with the provisionally agreed Digital Omnibus compromise text in Council Document 9247/26 of 13 May 2026. It carries no legal force in itself and is included only as a reading aid, the authoritative texts remaining Regulation (EU) 2024/1689 as published in the Official Journal of the European Union and the final adopted text of the Digital Omnibus on AI.
 
 Bird & Bird. (2026, May 21). AI Act and provisionally agreed AI Digital Omnibus: Consolidated version. https://www.twobirds.com/en/insights/2026/ai-act-,-a-,-provisionally-agreed-ai-digital-omnibus-consolidated-version
+
+<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_34 PM (6)" src="https://github.com/user-attachments/assets/efa78e63-9125-4629-98c2-e5098aeabb6c" />
+
 
 ## Licence
 
