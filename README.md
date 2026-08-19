@@ -26,7 +26,11 @@ The notebook is intended to be opened in Google Colab. The corpus files should b
 
 ## Source documents
 
-All documents in the corpus are official EU publications, obtained from the institutional websites of the European Commission, the Council of the European Union and the European Parliament, and are reproduced here solely for the purpose of research reproducibility.
+The documents in the corpus are, with one exception, official EU publications obtained from the institutional websites of the European Commission, the Council of the European Union and the European Parliament, and are reproduced here solely for the purpose of research reproducibility.
+
+The exception is EU_18, the consolidated reading of the amended AI Act, which is an unofficial consolidation prepared by the law firm Bird & Bird. It combines the AI Act as retrieved from EUR-Lex with the provisionally agreed Digital Omnibus compromise text in Council Document 9247/26 of 13 May 2026. It carries no legal force in itself and is included only as a reading aid, the authoritative texts remaining Regulation (EU) 2024/1689 as published in the Official Journal of the European Union and the final adopted text of the Digital Omnibus on AI.
+
+Bird & Bird. (2026, May 21). AI Act and provisionally agreed AI Digital Omnibus: Consolidated version. https://www.twobirds.com/en/insights/2026/ai-act-,-a-,-provisionally-agreed-ai-digital-omnibus-consolidated-version
 
 ## Licence
 
