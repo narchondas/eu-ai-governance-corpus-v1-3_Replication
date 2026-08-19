@@ -1,5 +1,5 @@
 # EU AI governance artefact
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/narchondas/eu-ai-governance-artefact/blob/main/notebook/AI_governance_regulatory_spectrum_EU_only_v1_3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BtrCoPCjLdFZphm986MSrw3xnLneX4nK?usp=sharing)
 
 Author: Nikos Archontas
 
