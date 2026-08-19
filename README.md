@@ -2,6 +2,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BtrCoPCjLdFZphm986MSrw3xnLneX4nK?usp=sharing)
 
 Author: Nikos Archontas
+ORCID: https://orcid.org/0009-0003-5941-4291
 
 This repository contains the reproducible research material accompanying a text-mining-supported analysis of European Union artificial intelligence governance. The material consists of a single Colab notebook and the corpus of eighteen EU instruments on which the analysis is based.
 
