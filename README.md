@@ -1,8 +1,3 @@
-
-
-<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_33 PM (2)" src="https://github.com/user-attachments/assets/af5a6831-230b-44a2-894f-99bc8e3cee64" />
-
-
 # EU AI governance artefact
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BtrCoPCjLdFZphm986MSrw3xnLneX4nK?usp=sharing)
 
@@ -17,19 +12,18 @@ notebook/    Colab notebook implementing the analytical pipeline
 corpus/      The eighteen EU documents (EU_01 to EU_18) in PDF format
 ```
 
+<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_33 PM (2)" src="https://github.com/user-attachments/assets/af5a6831-230b-44a2-894f-99bc8e3cee64" />
+
+
 ## Scope
 
 The analysis covers eighteen EU instruments spanning three regulatory phases, from the early coordination and soft-law period through the adoption of binding regulation and into the subsequent implementation and simplification stage. The corpus is restricted to EU material, and no comparative jurisdiction is included.
-
-<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_34 PM (5)" src="https://github.com/user-attachments/assets/66275ee8-47e1-4459-ad21-c6f66c625832" />
-
 
 ## The notebook
 
 The notebook positions each document along a regulatory spectrum by measuring the relative intensity of innovation-oriented and safeguards-oriented vocabulary, weighted by the legal force of the instrument. Its outputs comprise a regulatory spectrum scatter plot, a quadrant distribution chart, a heatmap of vocabulary intensity and a chronological slope graph.
 
-<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_34 PM (4)" src="https://github.com/user-attachments/assets/1d3c6a55-06d0-41a1-913d-2e17bb8ed9cc" />
-
+<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_34 PM (5)" src="https://github.com/user-attachments/assets/66275ee8-47e1-4459-ad21-c6f66c625832" />
 
 ## Reproduction
 
@@ -43,8 +37,6 @@ The exception is EU_18, the consolidated reading of the amended AI Act, which is
 
 Bird & Bird. (2026, May 21). AI Act and provisionally agreed AI Digital Omnibus: Consolidated version. https://www.twobirds.com/en/insights/2026/ai-act-,-a-,-provisionally-agreed-ai-digital-omnibus-consolidated-version
 
-<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_34 PM (6)" src="https://github.com/user-attachments/assets/efa78e63-9125-4629-98c2-e5098aeabb6c" />
-
 
 ## Licence
 
@@ -55,4 +47,6 @@ The notebook is released under the licence indicated in the LICENSE file. The EU
 Archontas, N. (2026). *EU AI governance artefact* [Computer software]. GitHub. https://github.com/narchondas/eu-ai-governance-artefact
 
 Full citation details for the accompanying article will be added once it has been published.
+
+<img width="1448" height="1086" alt="ChatGPT Image May 24, 2026, 10_58_34 PM (4)" src="https://github.com/user-attachments/assets/1d3c6a55-06d0-41a1-913d-2e17bb8ed9cc" />
 
